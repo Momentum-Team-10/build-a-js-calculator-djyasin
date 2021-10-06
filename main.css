@@ -30,6 +30,7 @@ justify-content: center;
     background-color: #e0ff3373;
     height: 80px;
     width: 380px;
+    color: whitesmoke;
 }
    #buttoncontainer {
     display: flex;
@@ -43,8 +44,7 @@ justify-content: center;
     text-align: center;
     font-family: Oswald, sans-serif;
     font-size: 30px;
-    color: whitesmoke;
-    color: white;
+    color: whitesmoke;   
    }
 .number-button {
     width: 80px;

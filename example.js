@@ -1,16 +1,22 @@
-let root = document.getElementById('root')
-
 let display = document.getElementById('display')
 
 let button1 = document.getElementById('button-1')
 let button2 = document.getElementById('button-2')
 let button3 = document.getElementById('button-3')
-let button4 = document.getElementById('button-4')
-let button5 = document.getElementById('button-5')
-let button6 = document.getElementById('button-6')
-let button7 = document.getElementById('button-7')
-let button8 = document.getElementById('button-8')
-let button9 = document.getElementById('button-9')
+
+console.log(button1.innerText)
+
+// button1.addEventListener('click', (event) => {
+//     display.innerText += button1.innerText
+// })
+
+// button2.addEventListener('click', (event) => {
+//     display.innerText += button2.innerText
+// })
+
+// button3.addEventListener('click', (event) => {
+//     display.innerText += button3.innerText
+// })
 
 let buttons = document.querySelectorAll('.number-button')
 console.log(buttons)
