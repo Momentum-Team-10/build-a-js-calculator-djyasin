@@ -27,6 +27,7 @@ justify-content: center;
    }
    #display {
     border: 2px solid orange;
+    background-color: #e0ff3373;
     height: 80px;
     width: 380px;
 }
