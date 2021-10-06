@@ -1,1 +1,1 @@
-Let root =document.getElementById(‘root’)
+Let root = document.getElementById(‘root’)
