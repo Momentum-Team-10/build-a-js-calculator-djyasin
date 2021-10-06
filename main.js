@@ -30,4 +30,10 @@ equals.addEventListener('click', () => {
    display.innerText = eval(display.innerText)
 })
 
+clear.addEventListener('click', () => {
+    location.reload()
+ })
 
+ 
+
+ 

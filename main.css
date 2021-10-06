@@ -66,3 +66,10 @@ justify-content: center;
     align-items: stretch;  
 
 }
+.decimal-button {
+    width: 80px;
+    height: 60px;
+    flex-shrink: 3;
+    align-items: stretch;  
+
+}
