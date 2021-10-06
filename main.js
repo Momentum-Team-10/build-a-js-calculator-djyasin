@@ -1,0 +1,1 @@
+Let root =document.getElementById(‘root’)
