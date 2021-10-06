@@ -22,7 +22,12 @@ for (let button of buttons) {
 }
 
 let equals = document.getElementById('equals')
+let multiply = document.getElementById('multiply')
+let divide = document.getElementById('divide')
+let subtract = document.getElementById('subtract')
 
 equals.addEventListener('click', () => {
    display.innerText = eval(display.innerText)
 })
+
+
