@@ -73,3 +73,8 @@ justify-content: center;
     align-items: stretch;  
 
 }
+.number-button:hover {
+    background-color: #eea7c3be;
+  }
+
+  
