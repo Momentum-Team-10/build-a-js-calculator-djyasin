@@ -34,19 +34,27 @@ clear.addEventListener('click', () => {
     location.reload()
  })
 
- decimal.addEventListener('click', () => {
-    display.innerText += decimal(display.innerText)
- })
+ //decimal.addEventListener('click', () => {
+  //  display.innerText += decimal(display.innerText)
+ // if (calculator.displayValue.includes(decimal)) {
+  //  Append the decimal point
+// calculator.displayValue += decimal;
+//}
+//}
+ //})
 
- function inputDecimal(decimal) {
-    // If the `displayValue` property does not contain a decimal point
-    if (calculator.displayValue.includes(decimal)) {
-      // Append the decimal point
-      calculator.displayValue += decimmal;
-    }
-  }
+//function inputDecimal(decimal) {
+//If the 'displayValue' property does not contain a decimal point
+ //  if (calculator.displayValue.includes(decimal)) {
+  //      Append the decimal point
+ //    calculator.displayValue += decimal;
+ //   }
+  //}
 
-
+ //if (target.classList.contains('decimal')) {
+ //   console.log('decimal', target.value);
+//    return;
+ // }
  //function Dot()                  //PUT IN "." if appropriate.
 // {
  //   if ( Current.length == 0)     //no leading ".", use "0."
