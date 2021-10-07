@@ -77,4 +77,14 @@ justify-content: center;
     background-color: #eea7c3be;
   }
 
-  
+.clear-button:hover {
+    background-color: #eea7c3be;
+  }
+
+.eval-button:hover {
+    background-color: #eea7c3be;
+}
+
+.decimal-button:hover {
+    background-color: #eea7c3be;
+}
