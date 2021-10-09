@@ -37,7 +37,7 @@ let meaningOfLife = prompt('What is the meaning of life?', 1);
       } else if (meaningOfLife > 42) {
         message = 'Incorrect';
       } else if (meaningOfLife = 42) {
-        message = 'Thanks for all the fish!';
+        message = 'So long, and thanks for all the fish!';
       } else {
         message = 'Incorrect';
       }
