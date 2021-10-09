@@ -33,7 +33,7 @@ decimal.addEventListener('click', () => {
 let meaningOfLife = prompt('What is the meaning of life?', 1);
 
     if (meaningOfLife < 42) {
-        message = 'No Calculator for You!';
+        message = 'Incorrect!';
       } else if (meaningOfLife > 42) {
         message = 'Incorrect';
       } else if (meaningOfLife = 42) {
